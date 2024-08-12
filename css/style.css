@@ -1,0 +1,18 @@
+.menubar{
+    color:black;
+    font-size:23px;
+   text-align:center;
+    cursor:pointer;
+    display:inline-block;
+}
+.menubar:hover{
+color:#86592d;
+transition:0.5px;
+text-align:center;
+}
+
+.img{
+    height:700px;
+    width:720px;
+    
+  }
